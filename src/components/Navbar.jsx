@@ -20,6 +20,8 @@ function Navbar() {
                 </div>
                 {/* button */}
                 <a href="" className="hidden md:block p-3 px-6 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-brightRedLight">Get Started</a>
+                {/* hambagger icon */}
+                <button id="mdenu-btn"></button>
             </div>
         </nav>
     
