@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # images 
 ![Manage ](./public/img/managesofts.png)
-![Manage ](../3D%20Objects/man2.png)
-![Manage ](../3D%20Objects/man3.png)
-![Manage ](../3D%20Objects/footer.png)
+![Manage ](./public/img/man2.png)
+![Manage ](./public/img/man3.png)
+![Manage ](./public/img/footer.png)
